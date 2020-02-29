@@ -4,7 +4,8 @@
 	<author>LockdownX7</author>
 	<supportedVersions>
 		<li>1.0</li>
+		<li>1.1</li>
 	</supportedVersions>
-	<url></url>
+	<url>https://github.com/LockdownX7/ForbidBlueprints</url>
 	<description>Blueprint toggling made easy.</description>
 </ModMetaData>
