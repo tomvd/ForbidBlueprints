@@ -1,14 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Forbid Blueprints</name>
+	<name>Forbid Blueprints (Continued)</name>
 	<author>LockdownX7</author>
 	<supportedVersions>
 		<li>1.0</li>
 		<li>1.1</li>
 		<li>1.2</li>
-    <li>1.3</li>
+    	<li>1.3</li>
+		<li>1.4</li>
 	</supportedVersions>
-	<packageId>lockdownx7.forbidblueprints</packageId>
-	<url>https://github.com/LockdownX7/ForbidBlueprints</url>
-	<description>Blueprint toggling made easy.</description>
+	<packageId>Adamas.forbidblueprints</packageId>
+	<url>https://github.com/tomvd/ForbidBlueprints</url>
+	<description>Blueprint toggling made easy. (Updated for 1.4)</description>
 </ModMetaData>
